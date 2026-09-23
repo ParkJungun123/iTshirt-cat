@@ -1,6 +1,4 @@
-{\rtf1\ansi\ansicpg949\cocoartf2870
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+# 기능 목록
+1. 티셔츠 올리기
+2. 티셔츠 구매하기
+3. 장바구니 담기
